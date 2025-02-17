@@ -1,0 +1,14 @@
+streamlit
+chromadb
+transformers
+torch
+sentence-transformers
+langchain
+PyMuPDF
+unstructured
+langchain-community
+huggingface_hub
+peft
+langchain_huggingface
+selenium
+accelerate
